@@ -1,0 +1,357 @@
+.container {
+    position: absolute;
+    position: absolute;
+    width: 1742px;
+    height: 1124px;
+    left: 144px;
+    top: 199px;
+
+    background: #060507;
+    border-radius: 32px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 32px;
+    
+}
+body {
+    background: #060507;
+}
+.logo-btn {
+    position: absolute;
+    display: flex;
+    
+    height:45px;
+    width: 285px;
+    margin:55px 0px 0px 64px;
+
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+h1 {
+    font-family: Druk Wide;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 183%;
+    color: #FFFFFF;
+}
+.bikes-btn {
+    position: absolute;
+    width: 61px;
+    height: 40px;
+    margin:64px 0px 0px 453px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.accessories-btn {
+    position: absolute;
+    width: 146px;
+    height: 40px;
+    margin:64px 0px 0px 586px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.newtech-btn {
+    position: absolute;
+    width: 108px;
+    height: 40px;
+    margin:64px 0px 0px 804px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.explore-btn {
+    position: absolute;
+    width: 96px;
+    height: 40px;
+    margin:64px 0px 0px 984px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.gold img{
+    border: 0px solid #000000;
+    border-radius:0px 32px 0px 0px;
+    width: 563px;
+    height: 375px;
+}
+.gold{
+    margin:0;
+    float: right;
+    
+}
+.photo1 {
+    position: absolute;
+    position: absolute;
+    width: 1032px;
+    height: 700px;
+    margin:164px 0px 0px 0px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background: none;
+    border: none;
+    z-index: 2;
+}
+.vector {
+    position: absolute;
+    width: 1724px;
+    height: 150px;
+    margin:740px 0px 0px 0px;
+
+    background: none;
+    border: none;
+    z-index: 5;
+}
+.krug {
+    position: absolute;
+    width: 183.28px;
+    height: 177.41px;
+    margin:214px 0px 0px 830px;
+    background: none;
+    border: none;
+    z-index: 5;
+}
+.photo2 {
+    position: absolute;
+    width: 316px;
+    height: 700px;
+    margin:164px 0px 0px 1073px;
+    background: none;
+    border: none;
+    z-index: 2;
+}
+.pravokutnik {
+    position: absolute;
+    width: 353px;
+    height: 744px;
+    margin:375px 0px 0px 1379px;
+    background: linear-gradient(90deg, #060507 0%, #060507 100%);
+    
+    border: 0px solid #000000;
+    border-radius:0px 0px 32px 0px;
+    z-index: 6;
+    bottom: 0px;
+    right: 0px;
+}
+.photo3 {
+    position: absolute;
+    width: 316px;
+    height: 256px;
+    margin-left: 1073px;
+    bottom: 0px;
+    background: none;
+    border: none;
+    z-index: 2;
+}
+.dugitekst {
+    position: absolute;
+    width: 406px;
+    height: 92px;
+    margin:988px 0px 0px 591px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 200%;
+    color: #FFFFFF;
+}
+.narančastipravokutnik {
+    position: absolute;
+    width: 140px;
+    height: 2px;
+    margin:1033px 0px 0px 176px;
+    background: #A75B12;
+    z-index: 2;
+}
+.bijelipravokutnik {
+    position: absolute;
+    width: 226px;
+    height: 2px;
+    margin:1033px 0px 0px 176px;
+    background: #FFFFFF;
+    z-index: 1;
+}
+h2 {
+    font-family: Druk Wide;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 183%;
+    color: #FFFFFF;
+}
+.donjilivi-btn {
+    position: absolute;
+    width: 72px;
+    height: 40px;
+    margin:1014px 0px 0px 64px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.donjidesni-btn {
+    position: absolute;
+    width: 72px;
+    height: 40px;
+    margin:1014px 0px 0px 442px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    background: none;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.speed {
+    position: absolute;
+    width: 305px;
+    height: 148px;
+    margin:43px 0px 0px 40px;
+    background: none;
+    padding:0;
+    left: 40px;
+    right: 275px;
+}
+.power {
+    position: absolute;
+    width: 305px;
+    height: 148px;
+    margin:215px 0px 0px 40px;
+    background: none;
+    padding:0;
+    left: 40px;
+    right: 275px;
+}
+.torque {
+    position: absolute;
+    width: 305px;
+    height: 148px;
+    margin:387px 0px 0px 40px;
+    background: none;
+    padding:0;
+    left: 40px;
+    right: 275px;
+}
+.fuel {
+    position: absolute;
+    width: 305px;
+    height: 148px;
+    margin:559px 0px 0px 40px;
+    left: 40px;
+    background: none;
+    padding:0;
+    right: 275px;
+}
+.okomito {
+    position: absolute;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    border: none;
+    float: left;
+    right: 0px;
+    margin-right: 275px;
+    
+}
+.p2 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 48px;
+    color: #3F3E44;
+    transform: rotate(-90deg);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    border: none;
+    float: left;
+}
+.gornje {
+    position: absolute;
+    display: flex;
+    border: none;
+    margin:24px 0px 0px 48px;
+}
+.p3 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    border: none;
+}
+.srednje {
+    position: absolute;
+    border: none;
+    margin:56px 0px 0px 48px;
+    display: flex;
+    align-items: center;
+}
+.p4 {
+    font-family: Druk Wide;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    color: #FFFFFF;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    border: none;
+}
+.donje {
+    position: absolute;
+    margin:113px 0px 0px 48px;
+    border: none;
+    
+    align-items: flex-end;
+}
+.p5 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    border: none;
+}
